@@ -5,9 +5,9 @@
 
 ![inistory's github stats](https://github-readme-stats.vercel.app/api?username=inistory&show_icons=true)
 
-- 📫 How to reach me: <a href="mailto:jungin3486@gmail.com">jungin3486@gmail.com</a></p>
-- 💬 Blog : [https://inistory.tistory.com/](https://inistory.tistory.com/)
-- 🌱 I’m currently learning : Recommender System
+- 📫  How to reach me: <a href="mailto:jungin3486@gmail.com">jungin3486@gmail.com</a></p>
+- 💬  Blog : [https://inistory.tistory.com/](https://inistory.tistory.com/)
+- 🌱  I’m currently learning : Recommender System
 
 
 
