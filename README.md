@@ -4,7 +4,7 @@
 #### ABOUT ME
 
 - 🌱  I’m currently learning : NLP, Recommender System
-- 📫  How to reach me: <a href="mailto:jungin3486@gmail.com">jungin3486@gmail.com</a></p>
+- 📫  How to reach me: <a href="mailto:jungin3486@gmail.com">jungin3486@gmail.com</a>
 - 💬  Blog : [inistory's blog](https://inistory.tistory.com/)
 
 
