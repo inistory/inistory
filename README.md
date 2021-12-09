@@ -16,6 +16,9 @@
 |:----------|:------:| :---- | 
 | Hate Speech Detection |`NLP`| [https://github.com/smile-speech](https://github.com/smile-speech) | 
 | Netflix data EDA |`EDA` |  [https://github.com/netfleeex](https://github.com/netfleeex) | 
+| AI-wonderland |`Web` `NLP`|  [https://github.com/inistory/AI-wonderland](https://github.com/inistory/AI-wonderland) | 
+| Mind helper |`Web` |  [https://github.com/inistory/mind_helper](https://github.com/inistory/mind_helper) | 
+| Counselor |`Web`|  [https://github.com/inistory/counselor](https://github.com/inistory/counselor) | 
 
 
 
