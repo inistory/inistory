@@ -12,7 +12,6 @@
 
 
 ### Projects
---- 
 |    Name    | Field  | Repo |
 |:----------|:------:| :---- | 
 | Hate Speech Detection |`NLP`| [https://github.com/smile-speech](https://github.com/smile-speech) | 
