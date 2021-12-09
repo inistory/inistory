@@ -19,6 +19,7 @@
 | AI-wonderland |`Web` `NLP`|  [https://github.com/inistory/AI-wonderland](https://github.com/inistory/AI-wonderland) | 
 | Mind helper |`Web` |  [https://github.com/inistory/mind_helper](https://github.com/inistory/mind_helper) | 
 | Counselor |`Web`|  [https://github.com/inistory/counselor](https://github.com/inistory/counselor) | 
+| Checkmate - Todolist service |`Web`|  [https://github.com/inistory/counselor](https://github.com/inistory/checkmate) | 
 
 
 
