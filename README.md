@@ -11,6 +11,13 @@
 ![inistory's github stats](https://github-readme-stats.vercel.app/api?username=inistory&show_icons=true)
 
 
+### Projects
+--- 
+|    Name    | Field  | Repo |
+|:----------:|:------:| :----: | 
+| Hate Speech Detection |`NLP`| [code](https://github.com/smile-speech) | 
+| Netflix data EDA |`EDA` |  [code](https://github.com/netfleeex) | 
+
 
 
 
