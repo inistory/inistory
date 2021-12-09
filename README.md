@@ -13,7 +13,7 @@
 
 ### Projects
 |    project name    | type  | repo |
-|:----------|:------:| :---- | 
+|:----------:|:------:| :---- | 
 | Hate Speech Detection |`NLP`| [https://github.com/smile-speech](https://github.com/smile-speech) | 
 | Netflix data EDA |`EDA` |  [https://github.com/netfleeex](https://github.com/netfleeex) | 
 | AI-wonderland |`Web` `NLP`|  [https://github.com/inistory/AI-wonderland](https://github.com/inistory/AI-wonderland) | 
