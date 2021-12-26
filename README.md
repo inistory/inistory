@@ -14,8 +14,8 @@
 ### Projects
 |    project name    | type  | repo |
 |:----------:|:------:| :---- | 
-| HatespeechHAN |`NLP`| [https://github.com/smile-speech/hatespeechHAN) | 
-| HatespeechHAN-telegram-bot |`NLP`| [https://github.com/smile-speech/hatespeechHAN-telegram-bot) | 
+| HatespeechHAN |`NLP`| [https://github.com/smile-speech/hatespeechHAN](https://github.com/smile-speech/hatespeechHAN) | 
+| HatespeechHAN-telegram-bot |`NLP`| [https://github.com/smile-speech/hatespeechHAN-telegram-bot](https://github.com/smile-speech/hatespeechHAN-telegram-bot) | 
 | Netflix data EDA |`EDA` |  [https://github.com/netfleeex](https://github.com/netfleeex) | 
 | AI-wonderland |`Web` `NLP`|  [https://github.com/inistory/AI-wonderland](https://github.com/inistory/AI-wonderland) | 
 | Checkmate - Todolist service |`Web`|  [https://github.com/inistory/checkmate](https://github.com/inistory/checkmate) | 
