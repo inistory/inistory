@@ -5,7 +5,7 @@
 
 - 🌱  I’m currently learning : NLP, Recommender System
 - 📫  How to reach me: <a href="mailto:jungin3486@gmail.com">jungin3486@gmail.com</a>
-- 💬  Blog : [inistory's blog](https://inistory.tistory.com/)
+- 💬  Blog : [inistory's devlog](https://inistory.tistory.com/)
 
 
 ![inistory's github stats](https://github-readme-stats.vercel.app/api?username=inistory&show_icons=true)
