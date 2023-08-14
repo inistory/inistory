@@ -8,9 +8,6 @@
 - 💬  Blog : [inistory's devlog](https://inistory.tistory.com/)
 
 
-![inistory's github stats](https://github-readme-stats.vercel.app/api?username=inistory&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inistory&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- ### Projects
 |    project name    | type  | repo |
 |:----------:|:------:| :---- | 
