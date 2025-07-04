@@ -4,6 +4,7 @@ Jungin Kim
 - 🌱  I’m currently learning : NLP, Recommender System
 - 📫  How to reach me: <a href="mailto:jungin3486@gmail.com">jungin3486@gmail.com</a>
 - 💬  Blog : [inistory's devlog](https://inistory.tistory.com/)
+- 🎓️ Google Scholar : [Google Scholar](https://scholar.google.com/citations?user=jLI2V78AAAAJ&hl=ko)
 
 
 <!-- ### Projects
